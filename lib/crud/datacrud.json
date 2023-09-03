@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Hattaya Yodpijit",
+      "email": "hattaya.yo@mail.wu.ac.th",
+      "password": "64115512"
+    },
+    {
+      "id": 2,
+      "fullname": "Wang Yibo",
+      "email": "yibo@test.com",
+      "password": "05081997"
+    },
+    {
+      "id": 3,
+      "fullname": "Mark Tuan",
+      "email": "tuanzy@test.com",
+      "password": "04091993"
+    }
+]
+}
